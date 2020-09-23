@@ -6,7 +6,6 @@ void main() {
     ChangeNotifierProvider(
       create: (context) => Counter(),
       child: MyApp(),
-//      Test
 
     ),
   );
